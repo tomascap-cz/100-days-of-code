@@ -10,3 +10,14 @@ I'm not entirely new to coding, I have solid mastery of HTML, CSS, and JavaScrip
 
 **Link(s) to work**
 [Aerotrips](https://github.com/tomascap-cz/aerotrips)
+
+### Day 2: December 29th, Wednesday
+
+**Today's Progress**
+I've added a background image for the page header and basic styling. I've also customized the settings of my VS Code.
+
+**Thoughts**
+After today's session, I have a very simple webpage. It's not polished or anything but it's not barebone either. It looks nice enough - for now. I bought a domain for it yesterday so despite it not being remotely finished, I am going to upload it to the internet and show it to the world - I need to get rid of my general fear of actually shipping my work.
+
+**Link(s) to work**
+[Aerotrips](https://github.com/tomascap-cz/aerotrips)
