@@ -20,4 +20,15 @@ I've added a background image for the page header and basic styling. I've also c
 After today's session, I have a very simple webpage. It's not polished or anything but it's not barebone either. It looks nice enough - for now. I bought a domain for it yesterday so despite it not being remotely finished, I am going to upload it to the internet and show it to the world - I need to get rid of my general fear of actually shipping my work.
 
 **Link(s) to work**
-[Aerotrips](https://github.com/tomascap-cz/aerotrips)
+[Aerotrips](http://aerotrips.cz/)
+
+### Day 3: December 30th, Thursday
+
+**Today's Progress**
+I've added external fonts, refactored CSS, tweaked the site content (new picture and changed texts), and made the site responsive for mobile devices.
+
+**Thoughts**
+After today, I believe the site looks pretty good - on desktop as well as on mobile. I enjoyed making all the small changes but ended up spending way more time with it than the one hour required by the challenge rules. That makes me neglect my other duties at home and my wife grumpy so I'd rather stick to the 60-minute limit with more discipline in the future.
+
+**Link(s) to work**
+[Aerotrips](http://aerotrips.cz/)
