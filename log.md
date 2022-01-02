@@ -32,3 +32,27 @@ After today, I believe the site looks pretty good - on desktop as well as on mob
 
 **Link(s) to work**
 [Aerotrips](http://aerotrips.cz/)
+
+### Day 4: December 31st, Friday
+
+**Today's Progress**
+I've added more content to my webpage.
+
+**Thoughts**
+It's the last day of the year - we're away from home, ready to celebrate New Year's Eve at our friends' place in the mountains. There's almost no cell reception and no wifi so there's only so much I can do (but I'm happy that I didn't skip the day altogether!). I've had to download the .zip of my project off GitHub while connected to my phone's hotspot when we were shopping in the town. And I am working offline now, editing the code in Notepad! Happy New Year!
+
+**Link(s) to work**
+[Aerotrips](http://aerotrips.cz/)
+
+### Day 5: January 1st, 2022, Saturday
+
+**Today's Progress**
+I've made a to-do of additional pages and features that need to be done. I've added a nav menu to the topbar and started implementing a hamburger button with a slidedown menu for mobile screens.
+
+**Thoughts**
+I've had an amazing New Year's Day: I got to read a great book, work on my website, have a lovely walk with my closest friends, cook a good-enough lunch (first in ages), and come back to my lovely home and be grateful and happy.
+
+I am confident enough to implement my own solutions (like the mobile menu), at least when it comes to relatively simple HTML/CSS problems, but I also need to set aside some time to look at how others did it - I will likely find more polished, more robust approaches that will teach me a lot.
+
+**Link(s) to work**
+[Aerotrips](http://aerotrips.cz/)
