@@ -56,3 +56,14 @@ I am confident enough to implement my own solutions (like the mobile menu), at l
 
 **Link(s) to work**
 [Aerotrips](http://aerotrips.cz/)
+
+### Day 6: January 2nd, Saturday
+
+**Today's Progress**
+I've finished the hamburger menu for mobile devices.
+
+**Thoughts**
+I've had a look at a few implementations of the hamburger menu and came up with a simple solution that serves me well for now. I'll try to dive deeper into it in the evening.
+
+**Link(s) to work**
+[Aerotrips](http://aerotrips.cz/)
