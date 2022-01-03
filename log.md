@@ -67,3 +67,14 @@ I've had a look at a few implementations of the hamburger menu and came up with 
 
 **Link(s) to work**
 [Aerotrips](http://aerotrips.cz/)
+
+### Day 7: January 3rd, Monday
+
+**Today's Progress**
+I took a break from the Aerotrips website and made just a quick HTML/CSS course assignment.
+
+**Thoughts**
+I've got a toothache and also a pretty difficult task at work. After I wrapped it up, I was pretty tired so I just finished my course assignments and called it a day. Week 1 of the challenge is done!
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 3](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp//)
