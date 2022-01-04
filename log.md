@@ -78,3 +78,15 @@ I've got a toothache and also a pretty difficult task at work. After I wrapped i
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 3](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp//)
+
+### Day 8: January 4th, Tuesday
+
+**Today's Progress**
+I've learned about Java Spring projects and logging with slf4j/Logback. I also progressed in my 100 Days Of Code web development course.
+
+**Thoughts**
+I need to step up my learning in Java and Spring/Spring Boot. It is important for my work, I don't want to be a burden on the team. So I took a little detour today and dedicated an hour to my Spring course. Good news is that I made a big progress today - both during work and my after-work learning efforts - with my understanding of POM files, module versioning, dependencies, and how the remote Maven repository plays into all of this.
+
+**Link(s) to work**
+[Java Spring Tutorial Masterclass, Section 4](https://www.udemy.com/course/java-spring-framework-masterclass/)
+[100 Days Of Code - Web Development Bootcamp 2022, Section 5](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp//)
