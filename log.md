@@ -90,3 +90,16 @@ I need to step up my learning in Java and Spring/Spring Boot. It is important fo
 **Link(s) to work**
 [Java Spring Tutorial Masterclass, Section 4](https://www.udemy.com/course/java-spring-framework-masterclass/)
 [100 Days Of Code - Web Development Bootcamp 2022, Section 5](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp//)
+
+### Day 9: January 5th, Wednesday
+
+**Today's Progress**
+I've got deeper into Spring application inner workings, started learning about PHP and WordPress, and started reviewing Git practices.
+
+**Thoughts**
+I started off 2022 with a big bang - trying to do well in my job, still learn coding, spend time with my family, keep the house at least fairly close to being tidy, cutting out Coke, McDonald's, and sweets from my diet...the result was that I was tired and generally miserable these last few days. Today, however, I am finally starting to feel normally again - my mood is better and I am not tired despite staying up some two hours longer than the days before. Let's keep it up :)
+
+**Link(s) to work**
+[Java Spring Tutorial Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
+[100 Days Of Code - Web Development Bootcamp 2022, Section 6](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Become a WordPress Developer: Unlocking Power With Code, Section 2-3](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
