@@ -103,3 +103,14 @@ I started off 2022 with a big bang - trying to do well in my job, still learn co
 [Java Spring Tutorial Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
 [100 Days Of Code - Web Development Bootcamp 2022, Section 6](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Become a WordPress Developer: Unlocking Power With Code, Section 2-3](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 10: January 6th, Thursday
+
+**Today's Progress**
+I've focused on how discarding/reverting changes and commits works in Git.
+
+**Thoughts**
+Didn't have much time but I was able to get a pretty good, detailed look at some Git commands that I only used a few times, if ever. I am pretty okay with my basic Git workflow (I use it daily both in and outside of work), but other than that, I have only very basic knowledge. Feels good to be able to dive deeper into the inner workings of this important tool.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 6](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
