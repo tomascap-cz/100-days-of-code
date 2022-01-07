@@ -114,3 +114,14 @@ Didn't have much time but I was able to get a pretty good, detailed look at some
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 6](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 11: January 7th, Friday
+
+**Today's Progress**
+I've started working on another project - graphical calculator.
+
+**Thoughts**
+After not coding any projects for a few days, I felt eager to start working on something. And I always wanted to code a nice-looking calculator, so here I go. Right now I have a basic structure of the keypad and a display (without any styles as of now). And I gained a very good insight into the behaviour of flex - by default, it will shrink if the window is resized, but it will not grow, therefore leaving some excess space in its container which messes up the alignment with other elements. Insights like this one are precisely what I like about this challenge - it allows me to fill various blanks in my knowledge.
+
+**Link(s) to work**
+[Calculator](https://github.com/tomascap-cz/calculator)
