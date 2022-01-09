@@ -125,3 +125,26 @@ After not coding any projects for a few days, I felt eager to start working on s
 
 **Link(s) to work**
 [Calculator](https://github.com/tomascap-cz/calculator)
+
+### Day 12: January 8th, Saturday
+
+**Today's Progress**
+I've added styles and basic calculation capability with results logged in the console.
+
+**Thoughts**
+Had to postpone this one because we had friends over on Saturday and then we actually went to their place for another round of board games and ended up sleeping over (wanted to be disciplined and took my notebook with me to code but didn't want to be rude).
+
+**Link(s) to work**
+[Calculator](https://github.com/tomascap-cz/calculator)
+
+### Day 13: January 9th, Sunday
+
+**Today's Progress**
+I've completed a round of changes on Janka's website and I've continued working on the calculator.
+
+**Thoughts**
+Did a ton of work today. Not just on my practice project but also on a real-world website I made a while ago for Janka's business which needed some updates. Learned something new regarding Angular's routing with fragments for navigating to anchors and also about using lazy loading for shortening the page load times (just read about it though, I haven't implemented it yet). And the calculator both works and looks pretty good now. I'll try to add some advanced/scientific functions in the coming days.
+
+**Link(s) to work**
+[Calculator](https://github.com/tomascap-cz/calculator)
+[JK - Holky na vdávání](https://jk-holkynavdavani.cz)
