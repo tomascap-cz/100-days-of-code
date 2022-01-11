@@ -148,3 +148,15 @@ Did a ton of work today. Not just on my practice project but also on a real-worl
 **Link(s) to work**
 [Calculator](https://github.com/tomascap-cz/calculator)
 [JK - Holky na vdávání](https://jk-holkynavdavani.cz)
+
+### Day 14: January 10th, Monday
+
+**Today's Progress**
+I've had a look at Bootstrap and put together a simple blog homepage. I also did some long overdue changes on Jirka's law firm's website.
+
+**Thoughts**
+The 100 Days of Code course I'm following does a great job explaining the basics in great detail but even though sometimes I find a useful bit of information there, usually I already know most of the stuff covered. I need to supplement this with UI libraries, frontend frameworks and other advanced stuff. That's why I started revising my (rusty) knowledge of Bootstrap today. I was able to put together a prototype of a blog page with a hero section and a grid of blog posts very quickly. I need to follow up with a detailed look at Bootstrap classes so that I can actually use Bootstrap and not just copy components from its website.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[Buchta, Pokorný & Partneři](http://bpplegal.eu)
