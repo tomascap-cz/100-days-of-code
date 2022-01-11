@@ -152,7 +152,7 @@ Did a ton of work today. Not just on my practice project but also on a real-worl
 ### Day 14: January 10th, Monday
 
 **Today's Progress**
-I've had a look at Bootstrap and put together a simple blog homepage. I also did some long overdue changes on Jirka's law firm's website.
+I've had a look at Bootstrap and put together a simple blog homepage. I also made some long overdue changes on Jirka's law firm's website.
 
 **Thoughts**
 The 100 Days of Code course I'm following does a great job explaining the basics in great detail but even though sometimes I find a useful bit of information there, usually I already know most of the stuff covered. I need to supplement this with UI libraries, frontend frameworks and other advanced stuff. That's why I started revising my (rusty) knowledge of Bootstrap today. I was able to put together a prototype of a blog page with a hero section and a grid of blog posts very quickly. I need to follow up with a detailed look at Bootstrap classes so that I can actually use Bootstrap and not just copy components from its website.
@@ -160,3 +160,15 @@ The 100 Days of Code course I'm following does a great job explaining the basics
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
 [Buchta, Pokorný & Partneři](http://bpplegal.eu)
+
+### Day 15: January 11th, Tuesday
+
+**Today's Progress**
+I've started to look at UI libraries for React, starting with React-Bootstrap. Additionally, I've learned some basic stuff about creating custom WordPress templates.
+
+**Thoughts**
+I understand how React-Bootstrap works but for some reason it seems unfriendly and intimidating to me. Some classes included in the documentation do not work...I'll try to soldier on tomorrow and create a polished blog UI with it but I didn't enjoy it too much today. Learning to create custom WordPress templates was much more rewarding. Anyway - I've entered my third week of the challenge, that's a success!
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[Become a WordPress Developer: Unlocking Power With Code, Section 2-3](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
