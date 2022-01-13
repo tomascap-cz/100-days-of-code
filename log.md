@@ -172,3 +172,25 @@ I understand how React-Bootstrap works but for some reason it seems unfriendly a
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
 [Become a WordPress Developer: Unlocking Power With Code, Section 2-3](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 16: January 12th, Wednesday
+
+**Today's Progress**
+I've progressed with my WordPress course and created a homepage of my sample WP template.
+
+**Thoughts**
+I resolved my concerns about all the projects I've started during this challenge so far. I am not going to pursue the Aerotrips blog, I don't want to have to constantly update Aerotrips with new content, at least not at this point. Blogging still intrigues me so I will create a sample blog project but it will be simpler, without all the extra Aerotrips stuff. So going forward, I'm going to work on these projects: Aerotrips, Calculator, WordPress Website, and Blog (later). This way, the projects won't overlap and all of them will make sense independently of the others. Also, I might end up liking WordPress!
+
+**Link(s) to work**
+[Become a WordPress Developer: Unlocking Power With Code, Section 4](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 17: January 13th, Thursday
+
+**Today's Progress**
+I've continued to code the sample WordPress template, discovering different built-in WordPress functions along the way.
+
+**Thoughts**
+I'm tired and sleepy after tonight's session of badminton with friends but I did NOT skip my training - I'm proud. I'm enjoying working with WordPress more and more, once you're approaching it as a coder and are not left with WP's UI to create your website, it's pretty awesome.
+
+**Link(s) to work**
+[Become a WordPress Developer: Unlocking Power With Code, Section 5](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
