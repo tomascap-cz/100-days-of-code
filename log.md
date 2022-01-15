@@ -194,3 +194,26 @@ I'm tired and sleepy after tonight's session of badminton with friends but I did
 
 **Link(s) to work**
 [Become a WordPress Developer: Unlocking Power With Code, Section 5](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 18: January 14th, Friday
+
+**Today's Progress**
+I've learned to convert static templates to actual WordPress pages, establish relationships between them, linking them up, and more.
+
+**Thoughts**
+It's my birthday! I'm 33. I've had an awesome day full of fun stuff to do - I went flying, I spent time with my son, and my girl has prepared this awesome party for tonight. In the end, I was not able to spend the full hour on coding as required by the challenge but I will make up for it tomorrow. I'm starting to have a pretty good idea how to work with WordPress and actually use its strengths instead of being constantly frustrated by its weak spots. Once one combines WordPress with custom code, it's actually amazing.
+
+**Link(s) to work**
+[Become a WordPress Developer: Unlocking Power With Code, Section 5](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 19: January 15th, Saturday
+
+**Today's Progress**
+I've returned to my web development course and picked up a few handy CSS tricks. I also continued in my Java Spring tutorial, further understanding the concept of beans and dependency injections.
+
+**Thoughts**
+It's been a slow day - to be expected after last night's party. Anyway, even though I'm still learning a lot, I haven't been as productive project-wise these last few days so that's going to change tomorrow. I'll try to complete my mock blog homepage with React/React-Bootstrap and then we'll see. But I don't want to end up a slave to this challenge, I need to find a way to keep it light and fun.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 7](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Java Spring Tutorial Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
