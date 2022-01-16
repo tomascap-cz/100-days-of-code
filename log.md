@@ -217,3 +217,15 @@ It's been a slow day - to be expected after last night's party. Anyway, even tho
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 7](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Java Spring Tutorial Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
+
+### Day 20: January 16th, Sunday
+
+**Today's Progress**
+I've reworked my blog homepage.
+
+**Thoughts**
+I'm starting to enjoy React-Bootstrap. I've figured out how to use it (I have to target use underlying CSS classes, not the component names, as CSS selectors) and I'm now able to not just use the basic components but I can also redesign them with CSS and create custom ones if needed.
+Also, 20% of the challenge completed!
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
