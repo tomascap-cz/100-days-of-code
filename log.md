@@ -229,3 +229,38 @@ Also, 20% of the challenge completed!
 
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+
+### Day 21: January 17th, Monday
+
+**Today's Progress**
+I've started refactoring the blog homepage, splitting it into components.
+
+**Thoughts**
+Didn't have much time for today's training, I was working late. Also, it's been a long time since I last dabbled with React so I have to watch a couple of videos from my older course to get back into it.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Day 22: January 18th, Tuesday
+
+**Today's Progress**
+I've tried to dynamically render Carousel items but ran into problems.
+
+**Thoughts**
+So there are apparently some issues with the way React-Bootstrap carousel is implemented, as soon as I switched from hard-coded Carousel slides to dynamically rendered ones (with .map()), I received an error related to React's ref() vs. futureRef() methods. I tried to read up on it but I don't really understand it at this point, I need to get more proficient in React first. I'll try to find another Carousel package tomorrow.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Day 23: January 19th, Wednesday
+
+**Today's Progress**
+I've tried a couple of different Carousels and ended up going with React Slick.
+
+**Thoughts**
+Had a crappy day - spent almost 12 hours working. I did manage to eventually do what was needed but I don't really want to live like this. Anyway, I managed to find an easy-to-use Carousel package and implement it (though I still have a lot of customizing to do). I'll try to wrap this little project up in 1-2 dyas and move on to other stuff.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
