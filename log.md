@@ -287,3 +287,15 @@ Got a little fed up with Maxmilian's web development course as the pace of the f
 **Link(s) to work**
 [Java Programming Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
 [Become a WordPress Developer: Unlocking Power With Code, Section 6](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+### Day 26: January 22nd, Saturday
+
+**Today's Progress**
+I've finished my React-Bootstrap blog project and did some reading on color theory and website design best practices.
+
+**Thoughts**
+We're quarantined with Covid that our little guy brought from pre-school. Perfect time for house chores and also for some extra learning - and I really did plenty today. I need to get back to all the stuff I read with regard to the use of colors in webdesign and write down some takeaways. I also wrapped up my blog project - I got it to the point where it looks good enough for the time being and I actually don't want to wrestle with it anymore. I need to renew and expand my understanding of React anyway, before I dive into more complicated projects.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
