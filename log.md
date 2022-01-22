@@ -264,3 +264,26 @@ Had a crappy day - spent almost 12 hours working. I did manage to eventually do 
 
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+
+### Day 24: January 20th, Thursday
+
+**Today's Progress**
+I've caught up with my web development course.
+
+**Thoughts**
+I actually chose to spend my Thursday evening with Janka so I had to catch up on Friday. I finished the initial part of the course which was trivial and a little boring to me, but still brought a few interesting insights. Right now I'm in the middle of a design-related module with tips on how to make good-looking designs and after that, the difficulty will start to go up. Looking forward to it!
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 7, 8, 9](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 25: January 21st, Friday
+
+**Today's Progress**
+I've made progress in my Java and WordPress Developer courses.
+
+**Thoughts**
+Got a little fed up with Maxmilian's web development course as the pace of the first few sections is rather slow. Instead, I completed a coding exercise in Java (returning to my general Java course for the first time during this challenge) and then continued with the WordPress course which seems super fun to me.
+
+**Link(s) to work**
+[Java Programming Masterclass, Section 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
+[Become a WordPress Developer: Unlocking Power With Code, Section 6](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
