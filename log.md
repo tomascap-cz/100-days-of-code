@@ -299,3 +299,27 @@ We're quarantined with Covid that our little guy brought from pre-school. Perfec
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
 [100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 27: January 23rd, Sunday
+
+**Today's Progress**
+I've learned about some of more advanced Git commands (for me, anyway) and I also created a contact form for my Aerotrips website.
+
+**Thoughts**
+I managed to find myself a problem - a CSS problem. Somehow, the padding of my section element containing the form does not work - it does not push the entire form up and inside the element, the form Submit button is inside the padding. I went back to my course lessons that dealt with margin and padding issues of inline elements and the solution actually helped - I eventually applied display: inline-block to the form element but that can't be it. There are no inline elements involved and the form is, of course, a block element by default. I finally had to let it go because it was super late and I wasn't thinking straight.
+
+**Link(s) to work**
+[Learn Git Branching - interactive web tutorial](https://learngitbranching.js.org/)
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+
+### Day 28: January 24th, Monday
+
+**Today's Progress**
+I've solved my form-related CSS problem and made a number of little visual tweaks to the Aerotrips website.
+
+**Thoughts**
+So the solution of my problem was easy - I was distracted by the seemingly obvious inline vs. inline-block issue but the real reason was that I assigned float: right to my button. Float takes the element out of the page flow, same as position: absolute. Watch out for that! After I figured it out, the world started to make sense to me again. Subsequently I created some simple transitions for the nav menu and the form Submit button. I believe the page is done for the time being! I need to complete other pages for the site and then also introduce some dynamic capabilites (like form handling), and in some time I will rewrite it in React or a different library, but for now, it's fine just the way it is.
+
+**Link(s) to work**
+[Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
+[100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
