@@ -323,3 +323,14 @@ So the solution of my problem was easy - I was distracted by the seemingly obvio
 **Link(s) to work**
 [Aerotrips blog](https://github.com/tomascap-cz/aerotrips-blog)
 [100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 29: January 25th, Tuesday
+
+**Today's Progress**
+I've coded a newsletter sign-up form based on a course challenge.
+
+**Thoughts**
+I am pretty confident that I can code just about anything with HTML and CSS. I need to dive deeper though - make sure that not only it's done, but that it's done in accordance with best practices, in the best possible way. There's still some visual stuff to fine-tune and then I guess I'll maybe use it in one of my future projects.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
