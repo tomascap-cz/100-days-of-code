@@ -334,3 +334,14 @@ I am pretty confident that I can code just about anything with HTML and CSS. I n
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 10](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 30: January 26th, Wednesday
+
+**Today's Progress**
+I've finished my newsletter sign-up form.
+
+**Thoughts**
+Today I fine-tuned the styling (after some inspiration from the course solution) and added validations to the form. In the process, I learned basics of regular expressions thanks to the telephone field. And in my web development course, I am finally progressing from HTML+CSS to JavaScript!
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 10, 11](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
