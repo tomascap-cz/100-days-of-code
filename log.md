@@ -345,3 +345,15 @@ Today I fine-tuned the styling (after some inspiration from the course solution)
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 10, 11](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 31: January 27th, Thursday
+
+**Today's Progress**
+I've finished the JavaScript intro section in my webdev course and implemented a language switcher for Jirka's WordPress-based business website.
+
+**Thoughts**
+I'm back on track - I flew through the initial JS section of the course a day early. Also, I made it a full month into the challenge - nice! That's already a pretty consistent habit. Now I'll want to become more organized, ensuring that not only I don't skip my daily coding practice, but also that I don't overspend too much time on it (and miss other important stuff). So I'll permit myself to spend a total of up to one hour on actual hands-on coding and 30 minutes on tutorials and/or reading. Other than that, I have plenty of other stuff to take care of at home and it's just as important - or more (like spending time with my little guy!).
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 11](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Buchta, Pokorný & Partneři](http://bpplegal.eu)
