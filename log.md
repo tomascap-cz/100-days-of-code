@@ -357,3 +357,15 @@ I'm back on track - I flew through the initial JS section of the course a day ea
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 11](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Buchta, Pokorný & Partneři](http://bpplegal.eu)
+
+### Day 32: January 28th, Friday
+
+**Today's Progress**
+I'm diving deeper to the JavaScript section of the course and I've returned to my calculator project - I added new keys and enabled keyboard inputs.
+
+**Thoughts**
+Everything is great at home, our COVID quarantine is almost over and everyone's fine. And I'm happy with my progress today, too - although I busted my time limit (but to be fair, I watched some aviation videos on a second screen so I'll cut myself some slack for tonight - had a good time).
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 12](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Calculator](https://github.com/tomascap-cz/calculator)
