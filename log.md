@@ -369,3 +369,15 @@ Everything is great at home, our COVID quarantine is almost over and everyone's 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 12](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Calculator](https://github.com/tomascap-cz/calculator)
+
+### Day 33: January 29th, Saturday
+
+**Today's Progress**
+I've implemented the calculator functional key operations.
+
+**Thoughts**
+I've expanded the functionality of my calculator with all the functional key operations and to do that, I had a quick look and various methods of JavaScript's Math library. I've also progressed with my web development course - listening to lessons about DOM manipulation, events, and events listeners.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 12](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Calculator](https://github.com/tomascap-cz/calculator)
