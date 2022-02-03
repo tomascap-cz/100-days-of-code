@@ -381,3 +381,49 @@ I've expanded the functionality of my calculator with all the functional key ope
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 12](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Calculator](https://github.com/tomascap-cz/calculator)
+
+### Day 34: January 30th, Sunday
+
+**Today's Progress**
+I've refactored the calculator code.
+
+**Thoughts**
+I've got rid of cumbersome onclick attributes on every single button and switched to event listeners. Apart from that, I made a few other changes in all my files - HTML, CSS, and JS - and I think the calculator works fine now.
+
+**Link(s) to work**
+[Calculator](https://github.com/tomascap-cz/calculator)
+
+### Day 35: January 31st, Monday
+
+**Today's Progress**
+I continued with my web development course.
+
+**Thoughts**
+Went through JS control structures and then called it a day.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 13](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 36: February 1st, Tuesday
+
+**Today's Progress**
+I finished the control flow section of my course and started reading Eloquent JavaScript.
+
+**Thoughts**
+I finished another course chapter and I'm about to start with a new "milestone" project - the tic tac toe game. And I started to read the Eloquent JavaScript book which is very well written.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 13](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Eloquent JavaScript](https://eloquentjavascript.net/)
+
+### Day 37: February 2nd, Wednesday
+
+**Today's Progress**
+I started working on the Tic Tac Toe game.
+
+**Thoughts**
+I created the first HTML structure and some basic styling. I did it myself first and only then watched the course videos (to not get influenced by them). I think I did a decent job but I will have to refactor and simplify it tomorrow. I've got some good inspiration from the video afterwards - and I could see I still have a lot to improve both in the analysis and the implementation. No biggie, I'll figure it out.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 14](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
