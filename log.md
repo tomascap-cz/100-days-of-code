@@ -427,3 +427,14 @@ I created the first HTML structure and some basic styling. I did it myself first
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 14](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
+
+### Day 38: February 3rd, Thursday
+
+**Today's Progress**
+I tweaked Tic Tac Toe's appearance, refactored HTML and CSS, and started implementing JavaScript.
+
+**Thoughts**
+Yesterday it felt awkward to work on this project and I was leaving it unhappy about what I accomplished. Today I like it much better - the application looks the way I want and I am implementing the game functionality. One or two more days and I'm done.
+
+**Link(s) to work**
+[Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
