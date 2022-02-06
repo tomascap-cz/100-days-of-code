@@ -438,3 +438,38 @@ Yesterday it felt awkward to work on this project and I was leaving it unhappy a
 
 **Link(s) to work**
 [Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
+
+### Day 39: February 4th, Friday
+
+**Today's Progress**
+I watched the instructor's implementation of Tic Tac Toe.
+
+**Thoughts**
+I took some time today to compare the course instructor's implementation of the Tic Tac Toe project with my own, figuring out whether I got various parts wrong, less practical, or just different. My coding abilities are improving and I think I am starting to think in a more complex way - it's not anymore about making it just work, it's about writing a good, efficient code now.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 14](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
+
+### Day 40: February 5th, Saturday
+
+**Today's Progress**
+I put some finishing touches on my Tic Tac Toe game.
+
+**Thoughts**
+I am done with my Tic Tac Toe project. I'm sure it's far from perfect but it's good enough for me to be quite happy with it. I learned a lot. Perhaps I can revisit it in some time and try to make the implementation more elegant after I internalize all the differences I got from the course videos.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 14](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Tic Tac Toe](https://github.com/tomascap-cz/tic-tac-toe)
+
+### Day 41: February 6th, Sunday
+
+**Today's Progress**
+I moved on to backend development and I learned basics of Node.js and Express.js.
+
+**Thoughts**
+It's on! I "graduated" from the frontend part of the course which was pretty basic for me at this point. The backend part will be much more interesting, I have little knowledge there. And I managed to go through a ton of material today, returning to work with Node.js and Express.js after a very long time. To complement the lessons, I started a new project which I wanted to build for some time - a flashcard app. I'm excited!
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 15, 16, 17, 18](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
