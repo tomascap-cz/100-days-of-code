@@ -473,3 +473,25 @@ It's on! I "graduated" from the frontend part of the course which was pretty bas
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 15, 16, 17, 18](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 42: February 7th, Monday
+
+**Today's Progress**
+I implemented a simple homepage for my flashcard project.
+
+**Thoughts**
+I'm working with Express and I like it. I also applied some styles for the project homepage.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 43: February 8th, Tuesday
+
+**Today's Progress**
+I implemented the flashcard page and I am starting to mess with EJS.
+
+**Thoughts**
+I've (re)discovered both advantages and shortcomings/limitations of EJS today. I'll have to have another look tomorrow. Also, I've had an interview for a company working for People in Need - it seems I'll be volunteering for them. Extra learning opportunities coming soon.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
