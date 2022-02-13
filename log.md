@@ -495,3 +495,59 @@ I've (re)discovered both advantages and shortcomings/limitations of EJS today. I
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 44: February 9th, Wednesday
+
+**Today's Progress**
+I converted my brother's website from a collection of static HTML pages to a Node/Express application with frontend based on EJS templates.
+
+**Thoughts**
+I did the long needed upgrade to my brother's site. I also included a rudimentary "content management system" which will enable him to change the texts by himself. Made for a good training with Express and EJS, especially after realizing yesterday that EJS is not the way to go with flashcards - it would be a pain and the result would be cumbersome at best.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 45: February 10th, Thursday
+
+**Today's Progress**
+I completed a thorough refactor of my brother's website.
+
+**Thoughts**
+I've (re)discovered both advantages and shortcomings/limitations of EJS today. I'll have to have another look tomorrow. Also, I've had an interview for a company working for People in Need - it seems I'll be volunteering for them. Extra learning opportunities coming soon.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 46: February 11th, Friday
+
+**Today's Progress**
+I started building my first app with Vue.js.
+
+**Thoughts**
+I received my first trial assignment from Quanti, a firm where I will be volunteering on behalf of People in Need. They want me to build a CRUD app for creating and displaying a list of notes (or todo items?). I've never worked with Vue so I started slow. Some of the concepts were quite difficult for me and there's still a lot of problems I need to solve but it's a start. I feel pretty dumb now, not to mention frustrated, but this is precisely what I need to get better in - making my way through the unknown, "embracing the suck", fighting through my impostor syndrome and just figure stuff out.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 47: February 12th, Saturday
+
+**Today's Progress**
+I figured out a difficult issue and got my Vue app working.
+
+**Thoughts**
+My Vue app can now add items, display them either in a list or in a separate detail page. It's been difficult and frustrating but the side effect is that I am becoming better at Googling solutions to my problems and reading the documetation.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 48: February 13th, Sunday
+
+**Today's Progress**
+I deployed a real-world project (my brother's website) to Heroku and figured out some additional requirements for the app I need to fulfill.
+
+**Thoughts**
+Turns out that an app hosted on Heroku needs to be hooked up to a database. So apart from Heroku I read up on MongoDB Atlas and mongoose. I also completed another section of the web development course which leaves me with a pretty decent knowledge of Express.
+
+**Link(s) to work**
+[martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
+[100 Days Of Code - Web Development Bootcamp 2022, Section 20](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
