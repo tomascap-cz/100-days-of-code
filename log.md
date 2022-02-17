@@ -551,3 +551,38 @@ Turns out that an app hosted on Heroku needs to be hooked up to a database. So a
 **Link(s) to work**
 [martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
 [100 Days Of Code - Web Development Bootcamp 2022, Section 20](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 49: February 14th, Monday
+
+**Today's Progress**
+I researched MongoDB and mongoose and started with DB data model.
+
+**Thoughts**
+It's been some time since I worked with MongoDB so I have some stuff to remember. I didn't have that much time today but still made some progress.
+
+**Link(s) to work**
+[martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
+[MongoDB](https://www.mongodb.com/cloud/atlas)
+[mongoose](https://mongoosejs.com/)
+
+### Day 50: February 15th, Tuesday
+
+**Today's Progress**
+I implemented DB read/write functionality (and some smaller stuff) for my Vue.js tutorial app for People In Need / Quanti.
+
+**Thoughts**
+I don't want to keep the Quanti guys waiting for too long so I pressed on. It involved lots of googling and documentation reading and I made good progress. There's just a few smaller things to wrap up.
+
+**Link(s) to work**
+[Todolist - Vue (GitHub repo)](https://github.com/tomascap-cz/todolist-vue)
+
+### Day 51: February 16th, Wednesday
+
+**Today's Progress**
+I finished my demo Vue app.
+
+**Thoughts**
+It's not perfect, in fact I'm sure it's far from it, but still - I learned a lot and I'm going to keep learning. I shipped the app today, being fairly happy with it. Moving on.
+
+**Link(s) to work**
+[Todolist - Vue (GitHub repo)](https://github.com/tomascap-cz/todolist-vue)
