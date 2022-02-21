@@ -586,3 +586,49 @@ It's not perfect, in fact I'm sure it's far from it, but still - I learned a lot
 
 **Link(s) to work**
 [Todolist - Vue (GitHub repo)](https://github.com/tomascap-cz/todolist-vue)
+
+### Day 52: February 17th, Thursday
+
+**Today's Progress**
+I got back to my web development course and went through some of the more advanced JS concepts.
+
+**Thoughts**
+It's actually a relief, having submitted my practice project to Quanti and being able to come back to learning. I refreshed some stuff and even learned something new (or maybe I was just able to understand it better, now that I've been around JS for a while). To be specific, the pass-by-reference concept is now really clear to me and I think that basics of asynchronous operations, Promises, and async/await also finally clicked.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 21](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 53: February 18th, Friday
+
+**Today's Progress**
+I continued with the advanced JS topics and started with introduction to databases.
+
+**Thoughts**
+Not much time today but I am happy that I am moving forward, even if just a little.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 21, 22](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 54: February 19th, Saturday
+
+**Today's Progress**
+I installed and set up MySQL on my computer.
+
+**Thoughts**
+Took a lot of downloading and installing but I am prepared to learn more about relational databases.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 23](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 55: February 20th, Sunday
+
+**Today's Progress**
+I practiced creating MySQL tables and inserting data into them. I also finished the overhaul of my brother's website - it's now a dynamic app with a rudimentary admin interface, connected to MongoDB Atlas and hosted on Heroku.
+
+**Thoughts**
+It's a great feeling to be able to finish a real world project. I used to have some MongoDB/mongoose basics before but I haven't used it in a very long time. I peeked into an older Udemy course to refresh my memory a bit but I figured most of the stuff on my own (or from the documentation). I still need to redirect my brother's domain to the app but I need his input for that so it has to wait till tomorrow.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 23](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[The Complete 2022 Web Development Bootcamp, Section 26, 29](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+[martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
