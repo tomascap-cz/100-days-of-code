@@ -632,3 +632,97 @@ It's a great feeling to be able to finish a real world project. I used to have s
 [100 Days Of Code - Web Development Bootcamp 2022, Section 23](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 [The Complete 2022 Web Development Bootcamp, Section 26, 29](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 [martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
+
+### Day 56: February 21st, Monday
+
+**Today's Progress**
+I continued with the web development course, namely the MySQL part.
+
+**Thoughts**
+...
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 23](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 57: February 22nd, Tuesday
+
+**Today's Progress**
+I watched the MySQL lessons from the web development course.
+
+**Thoughts**
+...
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 23, 24](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 58: February 23rd, Wednesday
+
+**Today's Progress**
+I made last adjustments to DNS entries for my brother's website and handed it over.
+
+**Thoughts**
+...
+
+**Link(s) to work**
+[martin-cap.cz, hosted on Heroku](https://martin-cap.herokuapp.com/)
+
+### Day 59: February 24th, Thursday
+
+**Today's Progress**
+Russia invaded Ukraine today and I jumped into action, organizing a quick charity event and then driving the gathered supplies to Brno where they will be loaded onto a humanitarian train. On the way, I listened to some of the web development course MySQL lessons.
+
+**Thoughts**
+Waking up today to the news of a new war in Europe was a big shock. Who knows how this ends. In the meantime, though, I will do my best to help anyone who needs helping.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 24](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 60: February 25th, Friday - BREAK
+
+### Day 61: February 26th, Saturday - BREAK, prepping for humanitarian trip to Slovak-Ukrainian border
+
+### Day 61: February 27th, Sunday - BREAK, volunteering at the border
+
+### Day 62: February 28th, Monday - BREAK, volunteering at the border
+
+### Day 63: March 1st, Tuesday - BREAK, volunteering at the border
+
+### Day 64: March 2nd, Wednesday - BREAK, volunteering at the border
+
+### Day 65: March 3rd, Thursday - BREAK, physical recuperation
+
+### Day 66: March 4th, Friday - BREAK, physical recuperation
+
+### Day 67: March 5th, Saturday - BREAK, physical recuperation
+
+### Day 68: March 6th, Sunday
+
+**Today's Progress**
+Listened to some MongoDB lessons and also went through file upload scenarios. I haven't coded anything though.
+
+**Thoughts**
+I know I need to catch up but somehow it does not seem too important right now. The world has changed so much in just a few days...
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 25 - 27](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 69: March 7th, Monday - BREAK, mental well-being
+
+### Day 70: March 8th, Tuesday - BREAK, mental well-being
+
+### Day 71: March 9th, Wednesday - BREAK, mental well-being
+
+### Day 72: March 10th, Thursday - BREAK, mental well-being
+
+### Day 73: March 11th, Frisday - BREAK, mental well-being
+
+### Day 74: March 12th, Saturday
+
+**Today's Progress**
+Went through some Ajax lessons and started planning my new project - a budgeting app.
+
+**Thoughts**
+Need to get back to it. Feels good to be able to restart my habits.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 28](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
