@@ -528,6 +528,7 @@ I received my first trial assignment from Quanti, a firm where I will be volunte
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Todolist - Vue (Quanti)](https://github.com/tomascap-cz/todolist-vue)
 
 ### Day 47: February 12th, Saturday
 
@@ -539,6 +540,7 @@ My Vue app can now add items, display them either in a list or in a separate det
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 19](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Todolist - Vue (Quanti)](https://github.com/tomascap-cz/todolist-vue)
 
 ### Day 48: February 13th, Sunday
 
@@ -574,7 +576,7 @@ I implemented DB read/write functionality (and some smaller stuff) for my Vue.js
 I don't want to keep the Quanti guys waiting for too long so I pressed on. It involved lots of googling and documentation reading and I made good progress. There's just a few smaller things to wrap up.
 
 **Link(s) to work**
-[Todolist - Vue (GitHub repo)](https://github.com/tomascap-cz/todolist-vue)
+[Todolist - Vue (Quanti)](https://github.com/tomascap-cz/todolist-vue)
 
 ### Day 51: February 16th, Wednesday
 
@@ -585,7 +587,7 @@ I finished my demo Vue app.
 It's not perfect, in fact I'm sure it's far from it, but still - I learned a lot and I'm going to keep learning. I shipped the app today, being fairly happy with it. Moving on.
 
 **Link(s) to work**
-[Todolist - Vue (GitHub repo)](https://github.com/tomascap-cz/todolist-vue)
+[Todolist - Vue (Quanti)](https://github.com/tomascap-cz/todolist-vue)
 
 ### Day 52: February 17th, Thursday
 
@@ -726,3 +728,16 @@ Need to get back to it. Feels good to be able to restart my habits.
 
 **Link(s) to work**
 [100 Days Of Code - Web Development Bootcamp 2022, Section 28](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+### Day 75: March 13th, Sunday
+
+**Today's Progress**
+Fixed my trial project for Quanti, started a new todo app (for me), and went through some lessons of my webdev course.
+
+**Thoughts**
+Finished the course section on AJAX and started learning about authentication and sessions. Also - 75% of the challenge done, nice! Even though I cheated a little and skipped two weeks. But I think that with everything that happened and with how crazy the world has become, that is understandable. And I actually had some head start with my lessons so I am not that far behind.
+
+**Link(s) to work**
+[100 Days Of Code - Web Development Bootcamp 2022, Section 28, 29](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+[Todolist - Vue (Quanti)](https://github.com/tomascap-cz/todolist-vue)
+[MyTodo](https://github.com/tomascap-cz/my-todo)
